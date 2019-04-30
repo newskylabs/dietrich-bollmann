@@ -47,9 +47,10 @@ extra_css: [extra.css]
 # Navigation
 nav:
   - Home: index.md
+  - Vita: vita.md
+  - Projects: projects.md
     
 # Copyright
-#| copyright: Copyright &copy; 2019 [Dietrich Bollmann](http://dietrich.newskylabs.net/)
 copyright: '<em>Copyright &copy; 2019 &nbsp; <a href="http://dietrich.newskylabs.net/">Dietrich Bollmann</a>. &nbsp; All rights reserved.</em>'
               
 ## =========================================================
