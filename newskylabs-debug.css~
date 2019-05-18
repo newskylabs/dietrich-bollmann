@@ -1,0 +1,11 @@
+/* 
+
+  CSS Customisations 
+
+  NewSkyLabs DEBUG section
+
+*/
+.nsl-debug {
+  color: red;
+  background-color: #ffb7c5;
+}
