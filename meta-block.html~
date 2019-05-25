@@ -1,0 +1,5 @@
+{#- base.html 
+- the original is here: /dietrich/sw/mkdocs/mkdocs/mkdocs/themes/readthedocs/base.html -#}
+
+{% extends "base.html" %}
+
